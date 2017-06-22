@@ -23,6 +23,9 @@ A social forum where users can join groups and post discussions about Game of Th
 ### Index
 ![alt_text](index.png "Index Page")
 
+### Sign Up
+![alt_text](signup.png "Sign Up Page")
+
 ### Login Page
 ![alt_text](login_page.png "Login Page")
 
